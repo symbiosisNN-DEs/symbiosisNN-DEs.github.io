@@ -20,11 +20,10 @@ author: Cecília Coelho & Luís Ferrás
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Presenters : "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Slides: "https://beautifuljekyll.com"
+    - Jupyter Notebooks: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
