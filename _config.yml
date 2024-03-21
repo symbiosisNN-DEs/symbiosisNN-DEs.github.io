@@ -20,11 +20,12 @@ author: Cecília Coelho & Luís Ferrás
 ###############################################
 
 navbar-links:
-  Presenters : "aboutme"
+  Schedule: "schedule"
+  Presenters: "aboutme"
   Resources:
     - Slides: "slidesPage"
     - Jupyter Notebooks: "interactiveNotes"
-    - Papers/libraries: "otherResources"
+    - More: "otherResources"
 
 ################
 # --- Logo --- #
