@@ -24,6 +24,7 @@ navbar-links:
   Resources:
     - Slides: "slidesPage"
     - Jupyter Notebooks: "interactiveNotes"
+    - Papers/libraries: "otherResources"
 
 ################
 # --- Logo --- #
@@ -72,7 +73,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: https://orcid.org/0009-0009-4502-937X
+  ORCID: 0009-0009-4502-937X
   google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
   kaggle: yourname
