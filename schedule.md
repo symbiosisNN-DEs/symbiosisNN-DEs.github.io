@@ -17,7 +17,7 @@ subtitle:
 3. Neural Networks for Modelling Differential Equations
     - Challenges on Differential Equations Formulation for Describing Real-world Systems
     - Neural Ordinary Differential Equations
-    - Hands-on with the Torchdifeqq Library
+    - Hands-on with the Torchdiffeq Library
 4. Wrap-up
     - Physics-Informed Neural Networks versus Neural Ordinary Differential Equations
     - What's Next?
