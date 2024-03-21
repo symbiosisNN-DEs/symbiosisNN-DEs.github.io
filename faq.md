@@ -11,7 +11,7 @@ Introduce novices to major topics within Artificial Intelligence (AI); Introduce
 2. **What knowledge will be conveyed?**
 Foundational understanding of differential equations and numerical methods, and their role in modelling real-world systems. Introduction and hands-on of two foundational architectures, Physics-Informed Neural Networks and Neural Ordinary Differential Equations and their respective official libraries. Clarification of the common misconception that Physics-Informed Neural Networks and Neural Ordinary Differential Equations are two architectures that achieve the same goal.
 
-3. What techniques/methods, concepts and modelling frameworks will be conveyed?
+3. **What techniques/methods, concepts and modelling frameworks will be conveyed?**
 Basic theory of differential equations and numerical methods; Physics-Informed Neural Networks, DeepXDE library, Neural Ordinary Differential Equations, Torchdiffeq library, When to use Physics-Informed Neural Networks and Neural Ordinary Differential Equations.
 
 4. **Why is this topic relevant?**
