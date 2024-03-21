@@ -9,7 +9,7 @@ subtitle:
 
 email: "lferras@fe.up.pt" 
   <li class="list-inline-item">
-    <a href="mailto:lferras@fe.up.pt" title="Email me">
+    <a href="mailto:lferras@fe.up.pt" title="Email me" style="color=black">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
