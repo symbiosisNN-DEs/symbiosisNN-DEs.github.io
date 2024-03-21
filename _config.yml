@@ -50,12 +50,12 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "cmartins@cmat.uminho.pt; lferras@fe.up.pt"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,10 +72,10 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: https://orcid.org/0009-0009-4502-937X
+  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
+  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
