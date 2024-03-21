@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frequently Asked Question
+title: Frequently Asked Questions
 subtitle: 
 ---
 
