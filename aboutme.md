@@ -9,7 +9,7 @@ subtitle:
   <li class="list-inline-item">
     <a href="mailto:{{ network[1] }}" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+        <i class="fas fa-envelope"></i>
       </span>
       <span class="sr-only">Email me</span>
    </a>
