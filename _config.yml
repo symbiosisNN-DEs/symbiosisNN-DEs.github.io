@@ -269,12 +269,6 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "my-sire"
-  -
-    scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
