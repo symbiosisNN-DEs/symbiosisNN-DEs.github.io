@@ -22,4 +22,8 @@ subtitle:
     - Physics-Informed Neural Networks versus Neural Ordinary Differential Equations
     - What's Next?
 
+### Schedule
+
+TBA
+
 
