@@ -15,7 +15,15 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 <div>
 <a href="mailto:cmartins@cmat.uminho.pt" class="email-link"> <i class="fa fa-envelope"></i> </a>
-<a href="https://orcid.org/0009-0009-4502-937X" class="email-link"> <i class="fab fa-orcid fa-stack-1x fa-inverse"></i> </a>
+<li class="list-inline-item">
+   <a href="https://orcid.org/0009-0009-4502-937X" title="ORCID">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+     </span>
+     <span class="sr-only">ORCID</span>
+   </a>
+ </li>
 <a href="https://www.kaggle.com/cici118/datasets" class="email-link"> <i class="fab fa-kaggle"></i> </a>
 </div>
 
