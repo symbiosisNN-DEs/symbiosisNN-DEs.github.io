@@ -14,7 +14,16 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 ### Cecília Coelho
 
 <div>
-<a href="mailto:cmartins@cmat.uminho.pt" class="email-link"> <i class="fa fa-envelope"></i> </a>
+ <li class="list-inline-item">
+    <a href="mailto:cmartins@cmat.uminho.pt" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li>
+  
 <li class="list-inline-item">
    <a href="https://orcid.org/0009-0009-4502-937X" title="ORCID">
      <span class="fa-stack fa-lg" aria-hidden="true">
@@ -24,7 +33,44 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
      <span class="sr-only">ORCID</span>
    </a>
  </li>
-<a href="https://www.kaggle.com/cici118/datasets" class="email-link"> <i class="fab fa-kaggle"></i> </a>
+  <li class="list-inline-item">
+    <a href="https://scholar.google.com/citations?user={glIx3vsAAAAJ&hl=en" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Google Scholar</span>
+    </a>
+  </li>
+ 
+ <li class="list-inline-item">
+    <a href="https://github.com/CeciliaCoelho" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li>
+  
+  <li class="list-inline-item">
+    <a href="https://linkedin.com/in/cecilia-coelho-b38b91183/" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li>
+    <li class="list-inline-item">
+    <a href="https://www.kaggle.com/cici118/datasets" title="Kaggle">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-kaggle fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Kaggle</span>
+   </a>
+  </li>
 </div>
 
 Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. 
