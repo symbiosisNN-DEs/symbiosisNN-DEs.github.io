@@ -7,6 +7,9 @@ subtitle:
 # Luís Ferrás
 
 <div>
+ <font size="24">
+    Luís Ferrás
+</font>
  <li class="list-inline-item">
     <a href="mailto:lferras@fe.up.pt" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
