@@ -5,7 +5,7 @@ subtitle:
 ---
 
  <font size="32" family="Open Sans">
-    <p>Luís Ferrás</p>
+    <b>Luís Ferrás</b>
 </font>
 
 <div>
@@ -45,7 +45,7 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 
  <font size="32" family="Open Sans">
-    <p>Cecília Coelho</p>
+    <b>Cecília Coelho</b>
 </font>
 
 <div>
