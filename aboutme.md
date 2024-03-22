@@ -4,7 +4,7 @@ title: Presenters
 subtitle: 
 ---
 
- <font size="26">
+ <font size="32" family="Open Sans">
     <p>Luís Ferrás</p>
 </font>
 
@@ -44,7 +44,7 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 
 
- <font size="26" family="Lora">
+ <font size="32" family="Open Sans">
     <p>Cecília Coelho</p>
 </font>
 
