@@ -13,4 +13,4 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 ### Cecília Coelho
 
 
-Currently pursuing a PhD in Mathematics at the University of Minho focused on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. 
+Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. 
