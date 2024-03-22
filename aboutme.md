@@ -15,7 +15,8 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 <div>
 <a href="mailto:cmartins@cmat.uminho.pt" class="email-link"> <i class="fa fa-envelope"></i> </a>
-<a href="mailto:cmartins@cmat.uminho.pt" class="email-link"> <i class="fa fa-envelope"></i> </a>
+<a href="https://orcid.org/0009-0009-4502-937X" class="email-link"> <i class="fab fa-orcid fa-stack-1x fa-inverse"></i> </a>
+<a href="https://www.kaggle.com/cici118/datasets" class="email-link"> <i class="fab fa-kaggle"></i> </a>
 </div>
 
 Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. 
