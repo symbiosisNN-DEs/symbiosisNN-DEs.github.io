@@ -4,7 +4,9 @@ title: Presenters
 subtitle: 
 ---
 
-### Luís Ferrás <div>
+## Luís Ferrás
+
+<div>
  <li class="list-inline-item">
     <a href="mailto:lferras@fe.up.pt" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
@@ -40,9 +42,7 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 
 
-### Cecília Coelho
-
-Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. 
+## Cecília Coelho
 
 <div>
  <li class="list-inline-item">
@@ -54,7 +54,6 @@ Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on 
       <span class="sr-only">Email me</span>
    </a>
   </li>
-  
 <li class="list-inline-item">
    <a href="https://orcid.org/0009-0009-4502-937X" title="ORCID">
      <span class="fa-stack fa-lg" aria-hidden="true">
@@ -104,4 +103,6 @@ Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on 
   </li>
 </div>
 
+
+Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. 
 
