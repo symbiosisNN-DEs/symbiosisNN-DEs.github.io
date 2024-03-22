@@ -4,13 +4,7 @@ title: Presenters
 subtitle: 
 ---
 
-### Luís Ferrás
-
-<a href="mailto:lferras@fe.up.pt" class="email-link"> <i class="fa fa-envelope"></i> </a>
-
-Assistant Professor at the Department of Mechanical Engineering (Section of Mathematics), Faculty of Engineering, University of Porto (FEUP), and a researcher at the Centre of Mathematics, University of Minho, Portugal. He received his PhD in Science and Engineering of Polymers and Composites from the University of Minho in 2012, a Ph.D. in Mathematics from the University of Chester in 2019, and was a visiting researcher at MIT in 2016 and 2017. His current research interests are numerical analysis, applied mathematics, partial and fractional differential equations, mathematical modelling, computational mechanics, computational fluid dynamics, complex viscoelastic flows, rheology, anomalous diffusion, and machine learning.
-
-<div>
+### Luís Ferrás <div>
  <li class="list-inline-item">
     <a href="mailto:lferras@fe.up.pt" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
@@ -20,7 +14,6 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
       <span class="sr-only">Email me</span>
    </a>
   </li>
-  
 <li class="list-inline-item">
    <a href="https://orcid.org/0000-0001-5477-3226" title="ORCID">
      <span class="fa-stack fa-lg" aria-hidden="true">
@@ -40,6 +33,10 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
     </a>
   </li>
 </div>
+
+
+
+Assistant Professor at the Department of Mechanical Engineering (Section of Mathematics), Faculty of Engineering, University of Porto (FEUP), and a researcher at the Centre of Mathematics, University of Minho, Portugal. He received his PhD in Science and Engineering of Polymers and Composites from the University of Minho in 2012, a Ph.D. in Mathematics from the University of Chester in 2019, and was a visiting researcher at MIT in 2016 and 2017. His current research interests are numerical analysis, applied mathematics, partial and fractional differential equations, mathematical modelling, computational mechanics, computational fluid dynamics, complex viscoelastic flows, rheology, anomalous diffusion, and machine learning.
 
 
 
@@ -68,7 +65,7 @@ Currently pursuing a Ph.D. in Mathematics at the University of Minho focused on 
    </a>
  </li>
   <li class="list-inline-item">
-    <a href="https://scholar.google.com/citations?user={glIx3vsAAAAJ&hl=en" title="Google Scholar">
+    <a href="https://scholar.google.com/citations?user=glIx3vsAAAAJ&hl=en" title="Google Scholar">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
