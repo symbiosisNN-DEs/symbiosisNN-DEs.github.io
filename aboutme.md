@@ -4,7 +4,7 @@ title: Presenters
 subtitle: 
 ---
 
-## Luís Ferrás
+# Luís Ferrás
 
 <div>
  <li class="list-inline-item">
@@ -42,7 +42,7 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 
 
-## Cecília Coelho
+# Cecília Coelho
 
 <div>
  <li class="list-inline-item">
