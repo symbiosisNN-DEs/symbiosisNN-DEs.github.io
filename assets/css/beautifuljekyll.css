@@ -53,12 +53,12 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-    color: inherit;
-    text-decoration: none;
+  color: {{ site.footer-link-col | default: "#404040" }};
 }
+
 a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.footer-hover-col | default: "#0085A1" }};
 }
 blockquote {
   color: #808080;
